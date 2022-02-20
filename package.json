@@ -1,0 +1,12 @@
+{
+  "name": "graphql-study-2022-1",
+  "version": "1.0.0",
+  "description": "Movie API with GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/kimtothechang/graphql-study-2022-1.git",
+  "author": "chango <kimtothechang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
