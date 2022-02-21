@@ -1,1 +1,1 @@
-# This repository is for studying GraphQL
+# This repository is for studying Apollo & GraphQL & React
